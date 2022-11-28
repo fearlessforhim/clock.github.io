@@ -1,2 +1,2 @@
-Groceries:40/100
-Gas: 50/100
+Groceries:1400/1400
+Gas:100/100
