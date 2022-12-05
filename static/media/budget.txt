@@ -1,4 +1,4 @@
-Groceries:185/1400
+Groceries:282/1400
 Auto Payment:0/247
 Gas And Fuel:0/100
 Internet:0/60
@@ -8,10 +8,10 @@ Student Loans:0/330
 Tuition:363/868
 Date Money: 41/70
 Music:0/10
-Life Insurance:0/55
+Life Insurance:55/55
 Tithe:0/722
 Vivint:0/32
-Rent:0/1938
+Rent:1938/1938
 Dance:90/126
-Electronics And Software:0/6
+Electronics And Software:3/6
 Other: 0/432
