@@ -1,17 +1,17 @@
-Groceries:1026/1400
-Auto Payment:247/247
-Gas And Fuel:50/100
+Groceries:0/1400
+Auto Payment:0/247
+Gas And Fuel:100/100
 Internet:0/60
 Mobile Phone:119/122
-Utilities:300/300
+Utilities:128/300
 Student Loans:0/330
-Tuition:363/868
-Date Money:70/70
-Music:10/10
+Tuition:0/868
+Date Money:46/70
+Music:0/10
 Life Insurance:55/55
-Tithe:0/722
+Tithe:0/788
 Vivint:0/32
 Rent:1938/1938
-Dance:90/126
-Electronics And Software:6/6
+Dance:0/126
+Electronics And Software:3/6
 Other: 0/1
